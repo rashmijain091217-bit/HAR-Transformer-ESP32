@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../har_project"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "har_transformer"
+	}
+}
