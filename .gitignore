@@ -1,0 +1,23 @@
+# virtual environment (VERY IMPORTANT)
+venv/
+
+# datasets
+UCI HAR Dataset/
+data/
+dataset/
+
+# models
+saved_models/
+models/
+checkpoints/
+
+# logs
+logs/
+
+# python cache
+__pycache__/
+*.pyc
+
+# system
+.DS_Store
+
